@@ -1,0 +1,9 @@
+.gradle/
+build/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+out/
+# jqwik stores failed seeds here; delete to forget them
+.jqwik-database
